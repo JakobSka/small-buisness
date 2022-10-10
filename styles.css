@@ -79,3 +79,11 @@ body {
   padding-bottom: 1px;
   border-bottom: 2px solid black;
 }
+
+video {
+  width: 375px;
+  border: 5px solid black;
+  border-radius: 20px;
+  display: block;
+  margin: 60px auto;
+}
